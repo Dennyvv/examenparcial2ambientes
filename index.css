@@ -3,5 +3,9 @@
 }
 
 h1 {
-    color: blanchedalmond;
+<<<<<<< HEAD
+    color: violet;
+=======
+    color: violet;
+>>>>>>> a7acab8 (Cambiar color h1)
 }
